@@ -1,0 +1,49 @@
+- name: Dr. Mina Choi
+  is_pi: True
+  is_current: True
+  position: Assistant Professor
+  orcid: https://orcid.org/0000-0002-9947-5035
+  scholar: https://scholar.google.com/citations?user=6v1R8kMAAAAJ&hl=en&oi=ao
+  researchgate: https://www.researchgate.net/profile/Mina-Choi
+  bio: >
+    Mina Choi, Ph.D., is an assistant professor in the School of Communication Studies 
+    and in the School of Emerging Media and Technology. Her research centers on the uses and effects
+    of new communication technologies (i.e., social media, mobile media, telepresence robot, etc.) on 
+    interpersonal relationships and psychological well-being. In particular, she seeks to understand 
+    how people form social bonds between acquaintances, friends, and romantic partners over 
+    interpersonal media and its effects on users' emotional well-being.
+    She focuses on communication processes that are pertaining to relationship development 
+    and maintenance such as self-disclosure, self-presentation, emotional expression, and 
+    media choice. In addressing these topics, she takes an interdisciplinary approach that 
+    draws on theories and empirical findings from communication, social psychology, and HCI. 
+    Her methodological approach is mostly quantitative, with an emphasis on experiments, surveys, 
+    and content analyses.
+    She earned her Ph.D. in Communication Science from the University of Wisconsin-Madison with 
+    minors in social psychology and journalism/mass communication.
+    In her non-work life, she likes to play and watch tennis.
+
+  photo: team/Choi_headshot_2022.jpeg
+
+- name: Matthew J. A. Craig
+  is_pi: False
+  is_current: True
+  position: Graduate Researcher
+  orcid: https://orcid.org/0000-0002-4824-566X
+  scholar: https://scholar.google.com/citations?user=_RX3IlkAAAAJ&hl=en&oi=sra
+  researchgate: https://www.researchgate.net/profile/Matthew-Craig-9
+  github: https://github.com/mcdv7
+  twitter: https://twitter.com/Matthew_JACraig
+  bio: >
+    Matthew Craig (MA, Western Michigan University) is a Doctoral student and advisee of 
+    Drs. Mina Choi & Jeffery Child. His research seeks to understand how people communicate with and through machines. 
+    Specifically, he is interested in the uses and effects of communication technologies (I.e. social media, mobile media, 
+    telepresence robots, virtual reality) on interpersonal relationships, human-machine communication, psychological well-being 
+    and privacy management. 
+    He is concerned with and communication processes that pertain to how people build and maintain relationships and 
+    interact with and through machines using self-disclosure, self-presentation, emotional expression, cognitive 
+    heuristics and media choice. To address these, his research draws on theories and empirical findings from communication, 
+    social psychology, HCI (human-computer interaction), HRI (human-robot interaction), and HMC (human-machine communication). 
+    His methodological approach is mostly quantitative, with an emphasis on experiments, surveys, content analyses.
+    Outside of his work, he enjoys hiking with his dog Luna (nickname Lunes and Luna-rover)
+
+  photo: team/Craig_headshot_2022.jpg

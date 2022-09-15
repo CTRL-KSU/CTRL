@@ -1,0 +1,25 @@
+# Site settings
+title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
+lab_name: Communication Technology Research Lab at Kent State University College of Communication & Information
+author: >
+  Bruno Grande, Ryan Morin and the Morin laboratory
+institution: KSU
+email: mcraig27@kent.edu
+description: >
+  The Communication Technology Research Lab conducts research related to the uses and effects of communication technology needs finishing.
+  
+baseurl: ""
+url: "https://CTRL.KSU.github.io"
+twitter_username: morinryan
+github_username:  morinlab
+images_dir: "/images/"
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
+
+#plugins for search engine optimization
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

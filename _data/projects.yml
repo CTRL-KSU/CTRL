@@ -1,0 +1,7 @@
+- name: example name for project
+  description: >
+    type out description.
+  funding: funding source
+  collaborators: names
+  assignees: names
+  photo: 

@@ -9,9 +9,9 @@ description: >
   The Communication Technology Research Lab conducts research related to the uses and effects of communication technology needs finishing.
   
 baseurl: ""
-url: "https://CTRL.KSU.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: "https://ctrl-ksu.github.io/CTRL/"
+twitter_username: CTRL_KSU
+github_username:  CTRL-KSU
 images_dir: "/images/"
 
 # Build settings
